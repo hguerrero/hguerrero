@@ -7,9 +7,9 @@
 ---
 
 ##  About Me
-- Currently at **Kong**, previously with **Red Hat** and **Arkingsoft**. :contentReference[oaicite:0]{index=0}
-- Passionate about **APIs**, **AI**, and **Event-Driven Architectures**, including AsyncAPI and Quarkus. :contentReference[oaicite:1]{index=1}
-- Based in **Massachusetts** (UTC-04:00). :contentReference[oaicite:2]{index=2}
+- Currently at **Kong**, previously with **Red Hat** and **Arkingsoft**.
+- Passionate about **APIs**, **AI**, and **Event-Driven Architectures**, including AsyncAPI and Quarkus.
+- Based in **Massachusetts** (UTC-04:00).
 
 ---
 
@@ -21,7 +21,6 @@
 |  YouTube    | [user/hguerreroo](https://www.youtube.com/user/hguerreroo) |
 |  SpeakerDeck| [speakerdeck.com/hguerrero](https://speakerdeck.com/hguerrero) |
 |  DZone      | [dzone.com/users/1426549/hguerreroo.html](https://dzone.com/users/1426549/hguerreroo.html) |
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -42,8 +41,7 @@ Here are a few projects pinned to my GitHub that reflect my passions:
 - **kong-api-gw-examples** – API Gateway examples tailored for HTTP and event-driven architectures  
 - **ai-automated-rag-demo** – Demo of Kong AI Gateway with an automated RAG setup using OpenAI  
 - **ai-voice-to-image-demo** – Voice-powered image generation using React, OpenAI’s DALL·E 3 & Whisper  
-- **kong-event-gw-okta-demo** – Kafka through the Kong Event Gateway, secured with Okta  
-:contentReference[oaicite:4]{index=4}
+- **kong-event-gw-okta-demo** – Kafka through the Kong Event Gateway, secured with Okta 
 
 ---
 
