@@ -13,17 +13,6 @@
 
 ---
 
-##  Connect with Me
-| Platform     | Link                                             |
-|--------------|--------------------------------------------------|
-|  Twitter    | [@hguerreroo](http://twitter.com/hguerreroo)     |
-|  LinkedIn   | [in/hugoguerrero](https://linkedin.com/in/hugoguerrero) |
-|  YouTube    | [user/hguerreroo](https://www.youtube.com/user/hguerreroo) |
-|  SpeakerDeck| [speakerdeck.com/hguerrero](https://speakerdeck.com/hguerrero) |
-|  DZone      | [dzone.com/users/1426549/hguerreroo.html](https://dzone.com/users/1426549/hguerreroo.html) |
-
----
-
 ##  What I Do
 I bring a versatile toolkit to the table, including but not limited to:
 
@@ -31,17 +20,6 @@ I bring a versatile toolkit to the table, including but not limited to:
 - Building developer-centric tools and communities  
 - Bridging AI innovations with robust API design  
 - Driving DevRel efforts to amplify developer adoption  
-
----
-
-##  Featured Projects
-Here are a few projects pinned to my GitHub that reflect my passions:
-
-- **kong-event-gw-examples** – Hands-on examples for the Kong Native Event Proxy  
-- **kong-api-gw-examples** – API Gateway examples tailored for HTTP and event-driven architectures  
-- **ai-automated-rag-demo** – Demo of Kong AI Gateway with an automated RAG setup using OpenAI  
-- **ai-voice-to-image-demo** – Voice-powered image generation using React, OpenAI’s DALL·E 3 & Whisper  
-- **kong-event-gw-okta-demo** – Kafka through the Kong Event Gateway, secured with Okta 
 
 ---
 
